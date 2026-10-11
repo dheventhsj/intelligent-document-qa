@@ -1,0 +1,7 @@
+[
+ {"question":"How many days of annual leave do employees receive?", "source":"handbook.txt", "evidence":"18 days", "expected_answer":"18 days per year"},
+ {"question":"When must expense claims be submitted?", "source":"handbook.txt", "evidence":"30 days", "expected_answer":"Within 30 days of the purchase"},
+ {"question":"How long after delivery can I request a refund?", "source":"refunds.md", "evidence":"14 days", "expected_answer":"Within 14 days of delivery"},
+ {"question":"Are downloaded digital products refundable?", "source":"refunds.md", "evidence":"non-refundable", "expected_answer":"No, once downloaded"},
+ {"question":"What is the CEO's personal phone number?", "source":null, "evidence":null, "expected_answer":"Abstain"}
+]
